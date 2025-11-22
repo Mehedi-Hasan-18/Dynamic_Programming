@@ -1,0 +1,1 @@
+{"name":"Local: minimumSubsetSumDiffrence","url":"c:\\1mehedi\\Play Code\\DSA\\DP\\0-1_knapsack\\minimumSubsetSumDiffrence.cpp","tests":[{"id":1763831306710,"input":"3\n1 2 7","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\1mehedi\\Play Code\\DSA\\DP\\0-1_knapsack\\minimumSubsetSumDiffrence.cpp","group":"local","local":true}

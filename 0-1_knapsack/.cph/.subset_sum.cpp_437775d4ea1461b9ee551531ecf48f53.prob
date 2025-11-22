@@ -1,0 +1,1 @@
+{"name":"Local: subset_sum","url":"c:\\1mehedi\\Play Code\\DSA\\DP\\0-1_knapsack\\subset_sum.cpp","tests":[{"id":1763797588056,"input":"5\n2 3 7 8 10\n11","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\1mehedi\\Play Code\\DSA\\DP\\0-1_knapsack\\subset_sum.cpp","group":"local","local":true}
