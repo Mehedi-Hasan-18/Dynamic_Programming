@@ -1,20 +1,20 @@
-Theory:
-How to Identify DP problem 
-    1.Need To choice Something from Something
-    2.Nedd a OPTIMAL solution
-    3.Need to call Recursion 2 times
+// Theory:
+// How to Identify DP problem 
+//     1.Need To choice Something from Something
+//     2.Nedd a OPTIMAL solution
+//     3.Need to call Recursion 2 times
 
-DP problem and variation:
-    1.0-1 knapsack(6)
-    2.Unbounded knapsack(5)
-    3.Fibonacci(7)
-    4.Longest Common Subsequence(15)
-    5.Longest Increasing Subsequence(10)
-    6.Kadane's Algorithm(6)
-    7.Matrix Chain Multiplication(7)
-    8.Dp on tree(4)
-    9.Dp on Grid(14)
-    10.others(5)
+// DP problem and variation:
+//     1.0-1 knapsack(6)
+//     2.Unbounded knapsack(5)
+//     3.Fibonacci(7)
+//     4.Longest Common Subsequence(15)
+//     5.Longest Increasing Subsequence(10)
+//     6.Kadane's Algorithm(6)
+//     7.Matrix Chain Multiplication(7)
+//     8.Dp on tree(4)
+//     9.Dp on Grid(14)
+//     10.others(5)
 // -------------------------------Memoization Approce --------------------------
 
 #include <bits/stdc++.h>

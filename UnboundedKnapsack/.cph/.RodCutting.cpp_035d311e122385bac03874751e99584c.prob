@@ -1,0 +1,1 @@
+{"name":"Local: RodCutting","url":"c:\\1mehedi\\Play Code\\DSA\\DP\\UnboundedKnapsack\\RodCutting.cpp","tests":[{"id":1763877598286,"input":"8\n1 5 8 9 10 17 17 20","output":"22"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\1mehedi\\Play Code\\DSA\\DP\\UnboundedKnapsack\\RodCutting.cpp","group":"local","local":true}
