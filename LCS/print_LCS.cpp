@@ -40,7 +40,7 @@ int main()
     int j = m;
     string ans;
 
-    while (i > 0 || j > 0)
+    while (i > 0 && j > 0)
     {
         if (str1[i - 1] == str2[j - 1])
         {

@@ -15,7 +15,7 @@
 //     8.Dp on tree(4)
 //     9.Dp on Grid(14)
 //     10.others(5)
-// -------------------------------Memoization Approce --------------------------
+-------------------------------Memoization Approce --------------------------
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -63,7 +63,7 @@ int main() {
     return 0;
 }
 
-// --------------------- TOP DOWN APPROCE ---------------------
+--------------------- TOP DOWN APPROCE ---------------------
 
 #include <bits/stdc++.h>
 using namespace std;
