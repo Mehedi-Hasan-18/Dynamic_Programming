@@ -1,19 +1,18 @@
 // Variation: Longest Common Subsequence (LCS) and Related Problems
 // 1.Longest Common Substring (√)
-// 2.Print LCS
+// 2.Print LCS(√)
 // 3.Shortest Common SuperSequence(√)
 // 4.Print SCS(√)
 // 5.Min Number of insertion and deletion to convert a-->b(√)
 // 6.Longest Repeating Subsequence(√)
 // 7.Lenth of longst subsequence of a whhich is a substring in b
-// 8.Subsequence Pattern Matching
+// 8.Subsequence Pattern Matching(√)
 // 9.Count how many times a appears as subsequence in b
 // 10.longest palindrome subsequence(√)
-// 11.longest palindromic substring
+// 11.longest palindromic substring(√)
 // 12.Count of palindromic substring
 // 13.Min number of deletions to make a string palindrome(√)
 // 14.Min number of insertion to make a string palindrome(√)
-
 
 // Problem Statement: Given two strings, find the length of their longest common subsequence (LCS).
 
