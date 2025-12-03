@@ -1,0 +1,1 @@
+{"name":"Local: scramble string","url":"c:\\1mehedi\\Play Code\\DSA\\DP\\MCM\\scramble string.cpp","tests":[{"id":1764782283810,"input":"we\nwe","output":""},{"id":1764786299908,"input":"great\nrgeat","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\1mehedi\\Play Code\\DSA\\DP\\MCM\\scramble string.cpp","group":"local","local":true}
